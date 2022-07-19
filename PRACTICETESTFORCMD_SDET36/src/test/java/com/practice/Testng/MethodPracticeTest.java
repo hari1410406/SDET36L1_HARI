@@ -10,6 +10,7 @@ public class MethodPracticeTest {
 	@Test
 	public void allTestngTests() {
 		Reporter.log("this is test class 2", true);
+		//Harish changed this one
 	}
 	
 	@Test
