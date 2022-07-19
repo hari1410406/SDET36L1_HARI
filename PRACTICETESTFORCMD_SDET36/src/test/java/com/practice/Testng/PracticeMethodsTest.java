@@ -14,5 +14,11 @@ public class PracticeMethodsTest {
 	public void testngTest2() {
 		Reporter.log("this is second testng test3333", true);
 	}
+	
+	@Test
+	public void repos() {
+		Reporter.log("project is added ====> github");
+		
+	}
 
 }
