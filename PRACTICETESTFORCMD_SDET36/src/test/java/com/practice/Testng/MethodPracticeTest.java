@@ -15,6 +15,7 @@ public class MethodPracticeTest {
 	@Test
 	public void allTest() {
 		Reporter.log("this is another method",true);
+		//this change for pull request
 	}
 
 }
