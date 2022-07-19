@@ -7,12 +7,12 @@ public class PracticeMethodsTest {
 	
 	@Test
 	public void testngTest() {
-		Reporter.log("this is first testng test",true);
+		Reporter.log("this is first testng test222",true);
 	}
 	
 	@Test
 	public void testngTest2() {
-		Reporter.log("this is second testng test", true);
+		Reporter.log("this is second testng test3333", true);
 	}
 
 }
