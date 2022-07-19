@@ -8,6 +8,7 @@ public class TestngPackagesTest {
 	@Test
 	public void buildMethod() {
 		Reporter.log("this is build1",true);
+		//this is build PUll Request
 		
 	}
 	@Test
