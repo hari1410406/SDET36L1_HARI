@@ -12,6 +12,8 @@ public class PracticeMethodsTest {
 		String Browser = System.getProperty("browser");
 		
 		String URL = System.getProperty("url");
+		
+		System.out.println("browser is"+Browser+"------->"+URL);
 		//This is another pull request
 	}
 	
