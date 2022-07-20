@@ -8,12 +8,19 @@ public class PracticeMethodsTest {
 	@Test
 	public void testngTest() {
 		Reporter.log("this is first testng test222",true);
+		
+		String Browser = System.getProperty("browser");
+		
+		String URL = System.getProperty("url");
 		//This is another pull request
 	}
 	
 	@Test
 	public void testngTest2() {
 		Reporter.log("this is second testng test3333", true);
+		//this is modified
+		
+		
 	}
 	
 	@Test
